@@ -5,7 +5,7 @@
     "test": "jest",
     "test-1" : "npx jest tests/soal1.test.ts",
     "test-2" : "npx jest tests/soal2.test.ts",
-    "test-3" : "npx jest tests/soal3.test.ts",
+    "test-3" : "npx jest tests/soal3.sql.test.ts",
     "viz" : "ts-node scripts/visualize.ts"
   },
   "devDependencies": {
